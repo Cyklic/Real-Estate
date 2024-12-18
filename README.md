@@ -14,4 +14,4 @@ Specifics:
 
 Machine Learning task: Regression model Target variable: Transaction price Input variables: Refer to data dictionary file - "Real Estate Project - Data Dictionary" Success Criteria: Mean Absolute Error (MAE) < $70,000
 
-Here I performed more exploration on the cleaned data looking for correlations to determine what features would be used in the model.
+Here I performed data modelling using different models such as Linear regression, Decision tree and Random Forest.
